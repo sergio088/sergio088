@@ -31,16 +31,16 @@ Atualmente, trabalho principalmente com **Next.js** e **TailwindCSS**, construin
 
 <div align="center">
   
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sergio088&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergio088&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
 ## 🌐 Onde me encontrar
-- 💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINK)  
-- 📧 **seuemail@email.com**
+- 💼 [LinkedIn]([https://www.linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/sergio-santos-4b4666373/))  
+- 📧 **ssergiosantos088@email.com**
 
 ---
 ✨ Sempre aprendendo e explorando novas tecnologias!
